@@ -1,0 +1,11 @@
+C:\Users\RAZAFIMANAMPY\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\RAZAFIMANAMPY\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\RAZAFIMANAMPY\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\RAZAFIMANAMPY\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\RAZAFIMANAMPY\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\RAZAFIMANAMPY\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\RAZAFIMANAMPY\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\RAZAFIMANAMPY\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\RAZAFIMANAMPY\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormClient.resources
+C:\Users\RAZAFIMANAMPY\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\dbclients.mdf
+C:\Users\RAZAFIMANAMPY\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\dbclients_log.ldf
